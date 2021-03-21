@@ -13,7 +13,7 @@ header {
     padding: 20px;
     width: 33.333%;
     float: left;
-    
+    box-sizing: border-box;
 }
 
 #iki {
@@ -23,7 +23,7 @@ header {
     padding: 20px;
     width: 33.333%;
     float: left;
-   
+   box-sizing: border-box;
 }
 
 
