@@ -1,0 +1,73 @@
+header {
+    padding: 10px;
+    margin-bottom: 10px;
+    color:black;
+    background: #ccc;
+    text-align: center;
+}
+
+#bir {
+    background: #666;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    width: 33.333%;
+    float: left;
+    
+}
+
+#iki {
+    background: #888;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    width: 33.333%;
+    float: left;
+   
+}
+
+
+#uc {
+    background: #666;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    width: 33.333%;
+    float: right;
+    box-sizing: border-box;
+}
+
+
+#section {
+    background: #eee;
+    text-align: center;
+    width: 100%;
+    height: 350px;
+    margin-top: 30px;
+    padding: 20px;
+    clear: both;
+}
+
+#div {
+    background: #6ea3da;
+    padding: 20px;
+    margin: 20px;
+    width: 98%;
+    text-align: center;
+}
+
+aside {
+    background: white;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+    float: left;
+    
+}
+
+footer {
+    background: #ccc;
+    padding: 20px;
+    text-align: center;
+}
